@@ -1,4 +1,4 @@
-name: start
+name: show-directory
 on: push
 jobs:
     build:
